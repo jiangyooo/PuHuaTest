@@ -1,4 +1,4 @@
-package Deduplication;//package com.example.Deduplication;
+package com.jiang.puhuatest.Deduplication;//package com.example.Deduplication;
 //
 //import java.util.*;
 //

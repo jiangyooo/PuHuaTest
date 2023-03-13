@@ -1,4 +1,4 @@
-package word;
+package com.jiang.puhuatest.word;
 
 import com.deepoove.poi.XWPFTemplate;
 import com.deepoove.poi.config.Configure;
@@ -15,8 +15,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
-
-import static javax.swing.UIManager.put;
 
 /**
  * @author shenzewei

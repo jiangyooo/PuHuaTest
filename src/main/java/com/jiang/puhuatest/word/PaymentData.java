@@ -1,4 +1,4 @@
-package word;
+package com.jiang.puhuatest.word;
 
 import com.deepoove.poi.config.Name;
 import org.apache.commons.lang3.builder.EqualsBuilder;

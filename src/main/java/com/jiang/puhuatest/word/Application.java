@@ -1,4 +1,4 @@
-package word;
+package com.jiang.puhuatest.word;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
