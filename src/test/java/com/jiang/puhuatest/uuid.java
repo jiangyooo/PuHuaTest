@@ -17,6 +17,7 @@ public class uuid {
 	}
 	@Test
 	void md5(){
-		System.out.println(new MD5().toString());
+		MD5 md5 = new MD5();
+		System.out.println(md5);
 	}
 }
